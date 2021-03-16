@@ -1,0 +1,10 @@
+
+//this is an programe of c++
+#include <iostream>
+using namespace std;
+
+void main()
+{
+  cout << "helloWorld" << endl;
+  system("pause");
+}
